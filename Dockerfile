@@ -1,4 +1,4 @@
-FROM nohaapav/alpine:1.0
+FROM alpine:3.4
 MAINTAINER Pavol Noha <pavol.noha@google.com>
 
 # Add git package
